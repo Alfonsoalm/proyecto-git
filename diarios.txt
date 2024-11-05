@@ -1,3 +1,5 @@
 1.- Creado diario
+"Hoy he ido a pasear por la mañana"
+
 2.- Actualizado diario Sarosi
 3.- Tu diario
